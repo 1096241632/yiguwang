@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, li {
+  list-style: none;
+}
+
+body {
+  background: url(../imgs/2.jpg) 0 0 no-repeat;
+}
+
+#box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 580px;
+  height: 660px;
+  margin-top: -330px;
+  margin-left: -290px;
+  text-align: center;
+  z-index: -1;
+  background: #fff;
+}
+#box #logo {
+  width: 160px;
+  height: 67px;
+  cursor: pointer;
+  margin-left: 38px;
+  margin-top: 20px;
+}
+#box #disembark {
+  position: relative;
+  top: 10px;
+  left: 38px;
+  width: 500px;
+  height: 600px;
+}
+#box #disembark h1 {
+  float: left;
+  font-size: 36px;
+  color: #333;
+}
+#box #disembark #disembark1 {
+  float: right;
+  margin-top: 25px;
+  color: #333;
+  font-size: 16px;
+}
+#box #disembark #disembark1 a {
+  color: #F8A21D;
+  font-size: 16px;
+}
+#box #disembark #disembark1 a:hover {
+  color: #ccc;
+}
+#box #disembark #disembark2 {
+  margin-top: 15px;
+  float: left;
+  width: 500px;
+  height: 52px;
+}
+#box #disembark #disembark2 span {
+  float: left;
+  width: 55px;
+  height: 52px;
+  background: #aaa;
+  line-height: 52px;
+  text-align: center;
+}
+#box #disembark #disembark2 span img {
+  margin-top: 12px;
+  width: 25px;
+  height: 25px;
+}
+#box #disembark #disembark2 input {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  color: #c9c9c9;
+  font-size: 16px;
+  padding: 10px;
+  width: 372px;
+  border: 1px solid #dedede;
+}
+#box #disembark #disembark2 p {
+  float: left;
+  position: relative;
+  top: 14px;
+  right: 30px;
+  width: 10px;
+  height: 10px;
+}
+#box #disembark #disembark0 {
+  margin-top: 25px;
+  float: left;
+  width: 500px;
+  height: 52px;
+}
+#box #disembark #disembark0 span {
+  float: left;
+  width: 55px;
+  height: 52px;
+  background: #aaa;
+  line-height: 52px;
+  text-align: center;
+}
+#box #disembark #disembark0 span img {
+  margin-top: 12px;
+  width: 25px;
+  height: 25px;
+}
+#box #disembark #disembark0 input {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  color: #c9c9c9;
+  font-size: 16px;
+  padding: 10px;
+  width: 222px;
+  border: 1px solid #dedede;
+}
+#box #disembark #disembark0 p {
+  float: left;
+  display: block;
+  margin-left: 10px;
+  width: 120px;
+  height: 52px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 52px;
+  text-align: center;
+  background: #ff7400;
+  cursor: pointer;
+}
+#box #disembark #disembark3 {
+  margin-top: 25px;
+  float: left;
+  width: 500px;
+  height: 52px;
+}
+#box #disembark #disembark3 span {
+  float: left;
+  width: 55px;
+  height: 52px;
+  background: #aaa;
+  line-height: 52px;
+  text-align: center;
+}
+#box #disembark #disembark3 span img {
+  margin-top: 12px;
+  width: 25px;
+  height: 25px;
+}
+#box #disembark #disembark3 input {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  color: #c9c9c9;
+  font-size: 16px;
+  padding: 10px;
+  width: 372px;
+  border: 1px solid #dedede;
+}
+#box #disembark #disembark4 {
+  margin-top: 25px;
+  float: left;
+  width: 500px;
+  height: 52px;
+}
+#box #disembark #disembark4 span {
+  float: left;
+  width: 55px;
+  height: 52px;
+  background: #aaa;
+  line-height: 52px;
+  text-align: center;
+}
+#box #disembark #disembark4 span img {
+  margin-top: 12px;
+  width: 25px;
+  height: 25px;
+}
+#box #disembark #disembark4 input {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  color: #c9c9c9;
+  font-size: 16px;
+  padding: 10px;
+  width: 372px;
+  border: 1px solid #dedede;
+}
+#box #disembark #disembark5 {
+  float: left;
+  margin-top: 30px;
+  width: 500px;
+  height: 52px;
+}
+#box #disembark #disembark5 #disembark5-1 {
+  float: left;
+  color: #333;
+  font-size: 16px;
+}
+#box #disembark #disembark5 #disembark5-1 span {
+  float: left;
+  display: block;
+  margin-right: 5px;
+  width: 28px;
+  height: 28px;
+  font-size: 16px;
+  color: #333;
+  border: 1px solid #333;
+  text-align: center;
+  cursor: pointer;
+}
+#box #disembark #disembark5 #disembark5-1 a {
+  font-size: 16px;
+  color: #333;
+  text-decoration: underline;
+}
+#box #disembark #disembark5 #disembark5-2 {
+  float: right;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+#box #disembark #disembark6 {
+  float: left;
+  width: 500px;
+  text-align: center;
+  height: 54px;
+  line-height: 54px;
+  color: #333;
+  font-size: 20px;
+  background: #fd7400;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=zhuce.css.map */
